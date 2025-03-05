@@ -37,6 +37,11 @@ Our fears often run ahead of reality. We’ve seen panics that really weren’t 
 
 # THANKS
 
+<<<<<<< HEAD
+=======
+    asdfasdfasdfasfdf
+
+>>>>>>> cb909cc (added humans)
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
