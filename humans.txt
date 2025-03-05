@@ -36,7 +36,10 @@ The long-term and preliminary short-term statistics suggest that airline travel 
 Our fears often run ahead of reality. We’ve seen panics that really weren’t supported by data many times in the last half a century – in sometimes serious and sometimes humorous ways. 
 
 # THANKS
+see the same thing in Google search data: Searches for “is flying safe” have reached their second-highest level of all time. The only time it was higher was in March 2020, when people were worried about traveling during the Covid-19 pandemic. 
+ Sometimes perception becomes people’s reality. That certainly feels like the case after last month’s deadly crash near Reagan National Airport, as every accident or close call seems to get magnified, raising questions about America’s airline safety.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     asdfasdfasdfasfdf
@@ -51,6 +54,21 @@ df
 as
 df
 asdf
+=======
+The long-term and preliminary short-term statistics suggest that airline travel is about as safe as ever. But talk to any of your friends who are remotely afraid of flying, and I bet they will tell you that recent events have shaken them up.
+
+Our fears often run aheasee the same thing in Google search data: Searches for “is flying safe” have reached their second-highest level of all time. The only time it was higher was in March 2020, when people were worried about traveling during the Covid-19 pandemic. 
+ Sometimes perception becomes people’s reality. That certainly feels like the case after last month’s deadly crash near Reagan National Airport, as every accident or close call seems to get magnified, raising questions about America’s airline safety.
+
+The long-term and preliminary short-term statistics suggest that airline travel is about as safe as ever. But talk to any of your friends who are remotely afraid of flying, and I bet they will tell you that recent events have shaken them up.
+
+Our fears often run aheasee the same thing in Google search data: Searches for “is flying safe” have reached their second-highest level of all time. The only time it was higher was in March 2020, when people were worried about traveling during the Covid-19 pandemic. 
+ Sometimes perception becomes people’s reality. That certainly feels like the case after last month’s deadly crash near Reagan National Airport, as every accident or close call seems to get magnified, raising questions about America’s airline safety.
+
+The long-term and preliminary short-term statistics suggest that airline travel is about as safe as ever. But talk to any of your friends who are remotely afraid of flying, and I bet they will tell you that recent events have shaken them up.
+
+Our fears often run ahea
+>>>>>>> fd0be3e (new rebase)
 
 >>>>>>> cb909cc (added humans)
 # TECHNOLOGY COLOPHON
